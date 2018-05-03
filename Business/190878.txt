@@ -1,0 +1,12 @@
+ Facebook’s S-1 filing with the Securities and Exchange Commission is the first step toward an initial public offering. DealBook is annotating the 148-page prospectus to decipher the giant social network’s revenue, profit and risk factors. Select the “notes” tab below to read just the highlighted portions of the document. 
+
+  DV.load('//www.documentcloud.org/documents/288894-facebook-prospectus.js', {
+    width: 592,
+    height: 800,
+    sidebar: false,
+    text: false,
+    page: 2,
+    note: 43655,
+    container: "#DV-viewer-288894-facebook-prospectus"
+  });
+ Advertisement

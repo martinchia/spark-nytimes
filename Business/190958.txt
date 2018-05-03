@@ -1,0 +1,16 @@
+It is no secret that Richard S. Fuld Jr., the former chief executive of Lehman Brothers, and his fellow officers earned hundreds of millions of dollars in the years leading up to the bank’s collapse. But new documents from the Lehman bankruptcy case reveal the extraordinary compensation bestowed on dozens of the bank’s employees in the years leading up to its demise in September 2008.  Wall Street critics blame the outsize salaries of bank employees as a core reason for the global financial crisis, arguing that the promise of large pay packages led to excessive risk taking. While the compensation for a handful of Lehman executives like Mr. Fuld had previously been known, the documents reveal the compensation for the 50 highest-paid employees.  Robert Millard, the head of Lehman’s proprietary trading operations — the group that traded the bank’s own money — was in line to make $51.3 million in 2007, making him the highest-paid employee on a list of the top-50 paid employees that year. The list shows that he was paid $44.5 million in 2006 and $3.8 million in 2005. Mr. Millard now runs Realm Partners, a hedge fund in New York. The $51.3 million paid to Mr. Millard approximates the pay package received by Mr. Fuld that year, which, depending on how it was calculated, was worth $40 million to $51.6 million.   No. 2 on the employee list was Marvin Schwartz, the low-profile, legendary money manager at Lehman’s Neuberger Berman unit. He was paid $31.2 million in 2007, $27 million the year before and $14.8 million in 2005. Mr. Schwartz is still at Neuberger, which spun out of Lehman and is now an independent, privately held company.  The bronze medal for Lehman employee pay in 2007 was Jonathan Hoffman, who is listed as trading “global rates,” which is trading in government bonds and more complex instruments including derivatives tied to interest rates. It is unclear where Mr. Hoffman works today.   The bankruptcy documents also include a presentation to the board’s compensation committee in January 2008 and the compensation review process for the firm’s equity research personnel. It is unclear how much of this compensation was paid in Lehman stock, which soon turned out to be worthless. The documents were earlier reported on by The Los Angeles Times. A Lehman spokeswoman had confirmed their authenticity to DealBook.  
+
+  DV.load("//www.documentcloud.org/documents/348074-lehman-compensation.js", {
+    width: 592,
+    height: 660,
+    sidebar: false,
+    page: 58,
+    note: 54600,
+    container: "#DV-viewer-348074-lehman-compensation"
+  });
+
+
+Documents Reveal Lehman Compensation (PDF)
+
+Documents Reveal Lehman Compensation (Text)
+ Advertisement

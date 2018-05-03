@@ -1,0 +1,18 @@
+Gov. Bobby Jindal of Louisiana is giving his presidential announcement the slow-walk treatment. Looking to milk his moment in the spotlight, Mr. Jindal trickled out his intention to seek the Republican nomination with an early morning Facebook video, offering a peek into his family life, followed by a formal declaration on Twitter before a rally in his home state. Presidential candidates often say that the decision to seek the White House is the most personal choice one can make, involving soul searching, prayer and intense family discussions. Mr. Jindal shed some light on the conversation he had with his family about the decision. Sitting on the patio of the governor’s mansion, with a camera perched upon a tree, Mr. Jindal and his wife, Supriya, explained how they told their three children that they had made the decision. “Mommy and daddy have been thinking and talking a lot about this, and we have decided that we are going to be running for president this year,” Mr. Jindal said. Bracing them for the changes to come, Mr. Jindal said his family would be busy this year with extensive travel. One perk, he said, would be the chance to spend some quality time in Iowa. “Maybe you’ll get a chance, if you behave, to go back to Iowa,” Mr. Jindal said, reminding them of the popcorn and candy they enjoyed on a previous visit there. Mr. Jindal will need to spend plenty of time in Iowa to woo caucusgoers if he is to generate momentum for his campaign. Early poll numbers show his popularity remains tepid nationally and in his home state. Mr. Jindal was scheduled to make his announcement to the rest of the public after 5 p.m. at the Pontchartrain Center in Kenner, La.  window.fbAsyncInit = function() {
+  FB.init({
+    xfbml      : true,
+    version    : 'v2.3'
+  });
+  }; (function(d, s, id){
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) {return;}
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk')); 
+		First Draft provides fast-paced and comprehensive coverage of politics and elections by The New York Times. Come back throughout the day for the latest news and analysis, and be part of the political conversation.
+		 
+Like it? Hate it? Have a tip for us? Send any and all feedback to firstdraft@nytimes.com.
+         
+			We send out a newsletter around 7 a.m. eastern time each weekday that serves as a look-ahead to the day's political events and expected stories.
+			

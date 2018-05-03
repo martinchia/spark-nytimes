@@ -1,0 +1,636 @@
+
+require(['//code.jquery.com/jquery-1.10.1.min.js'], function () {
+NYTD.jQuery = jQuery.noConflict();
+var regex = new RegExp("[\\?&#038;]nytapp=([^&#038;#]*)");
+var results = regex.exec(window.location.href);
+if( results !== null) { 
+NYTD.jQuery("html").removeClass("desktop");
+NYTD.jQuery("p.story-body-text").css("font-size", "1rem").css("line-height","1.4375rem");
+var renderStyle = decodeURIComponent(results[1].replace(/\+/g, " "));
+if(renderStyle === "mobile_web") {
+NYTD.jQuery("#page").css("padding-top", "0px");
+} else if(renderStyle === "iphone") {
+NYTD.jQuery("#page").css("padding-top", "65px");
+}
+}
+});
+ The field of nearly 3,000 dogs at the 138th Westminster Kennel Club Dog Show got whittled to one best in show at Madison Square Garden on Tuesday night, as Sky, a 5-year-old wire fox terrier, took the crown.  Also on Tuesday night, Matisse, a Portuguese water dog, won the working group, and Riley, an Irish water spaniel, won the sporting group. On Monday, Nathan, a 3-year-old Bloodhound, won the hound group. Classie, a 4-year-old Miniature Pinscher, placed first in the toy group. Ally, a white Standard Poodle, topped the non-sporting group. Coco Posh, a Cardigan Welsh Corgi, won the herding group.  Here’s a look back at some of the highlights and behind-the-scenes moments. 
+
+
+10:57 P.M.We Have a Winner!
+
+
+Sky, a 5-year-old wire fox terrier who has her own Twitter account and Facebook page, won the top prize on Tuesday night.
+
+
+
+
+10:46 P.M.Star Moment
+
+
+
+Photo
+
+Many people dream of having their mug on the video screen at Madison Square Garden. Some dogs are lucky enough to make it a reality.Credit Justin Sullivan/Getty Images
+
+
+
+
+
+
+10:41 P.M.Sometimes You Just Need a Hug
+
+
+
+Photo
+
+A Newfoundland jumps up on her handler during the working group competition.Credit Andrew Burton/Getty Images
+
+
+
+
+
+
+10:38 P.M.Top Terrier
+
+
+
+Photo
+
+Sky, a wire fox terrier, won the terrier group on Tuesday.Credit John Minchillo/Associated Press
+
+
+
+
+
+
+10:02 P.M.Some Love for Rat Terriers
+
+
+
+Photo
+
+Balynda Brown and her rat terrier competing at the Westminster Dog Show.Credit Richard Perry/The New York Times
+
+
+New breeds like rat terrier â and the other newbies at the show, the chinook and the Portuguese Podengo Pequeno â generally need time at an elite show like Westminster to demonstrate their bona fides. There are, after all, plenty of breeds that have never won. It took until 2008, more than 130 years into Westminsterâs history, for a beagle, Uno, to win.
+And while terriers have won Westminsterâs top prize 45 times, Marti was unlikely to win the terrier group and advance to Best in Show against the winners of six other groups Tuesday night … Read more Â»
+— RICHARD SANDOMIR
+
+
+
+
+9:42 P.M.Are the Obamas Watching?
+
+
+
+Photo
+
+MatisseCredit Frank Franklin Ii/Associated Press
+
+
+Bo and Sunny Obama must be proud. Their fellow Portuguese water dog, a 2-year-old named Matisse, just won the working group at the Westminster Dog Show.
+— NICKI JHABVALA
+
+
+
+
+9:13 P.M.A Ribbon for Riley
+
+
+
+Photo
+
+Riley, an Irish water spaniel, struts her stuff before winning the sporting group.Credit John Minchillo/Associated Press
+
+
+
+
+
+
+8:53 P.M.Bigger the Better
+
+
+
+I need a big dog in my life #wkcdogshow https://t.co/HCgKsH4oqt
+— Hamilton Pug (@HamiltonPug) February 12, 2014
+
+
+
+
+
+
+7:53 P.M.Smile!
+
+
+
+Photo
+
+This is the closest that Chauncey, a Komondor, will get to taking a selfie.Credit Andrew White for The New York Times
+
+
+
+
+
+
+7:41Pets Have Pets Too
+
+
+
+How do you bring the audience to their knees? By carrying around a pet giraffe, of course #WKCDogShow pic.twitter.com/QmUEpIOpAc
+â Hamilton Pug (@HamiltonPug) February 12, 2014
+
+
+
+
+
+
+7:31 P.M.All Ears
+
+
+
+Photo
+
+Nathan, a 3-year-old bloodhound, showing off his long ears after winning the hound group on Tuesday.Credit John Minchillo/Associated Press
+
+
+
+
+
+
+7:20 P.M.Remembering the Champs
+
+
+
+Photo
+
+Credit Clockwise from top left: Karsten Moran for The NYT; Barton Silverman/NYT; Barton Silverman/NYT; Barton Silverman/NYT; Barton Silverman/NYT; G. Paul Burnett/NYT
+
+
+In a few hours, this year’s best in show will be named. But until then, let’s take a look back at some past winners at the Westminster Dog Show. Clockwise from top left is last year’s champion, the Affenpinscher Banana Joe; the 2012 victor, the Pekingese Malachy; the Scottish deerhound Hickory in 2011; the Scottish terrier Sadie in 2010; the Sussex spaniel Stump in 2009; and the beagle Uno in 2008.
+— NICKI JHABVALA
+
+
+
+
+6:35 P.M.A Long Day on the Job
+
+
+
+Photo
+
+Travis Gross and his Staffordshire Bull Terrier, Angus, had a quiet moment before heading for home.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+5:50 P.M.Can I Take a Nap Now?
+
+
+
+It’s a long day for a dog #WKCDogShow //t.co/AHAhX0lnLg
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+5:40 P.M.A Meeting of the Minds, and Paws
+
+
+
+Photo
+
+Kristin McCartney grooming her Gordon Setter, Hollyhunt Take a Chance on Me.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+5:28 P.M.You Can’t Resist My Charms
+
+
+
+Malamutes have the friendliest faces #WKCDogShow //t.co/7hWpe3M0fr
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+5:13 P.M.Love a Good Chin Scratch
+
+
+
+Photo
+
+Joey, a Wire Fox Terrier, getting the dog show version of a chin scratch.Credit Ray Stubblebine/Reuters
+
+
+
+
+
+
+4:55 P.M.One Furry Beast
+
+
+
+Is that a lion? No, it’s Tibetan mastiff! #WKCDogShow //t.co/8hZ9OJfMPJ
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+3:55 P.M.Rat Terriers in Style
+
+
+
+Photo
+
+Balynda Brown maneuvered her Rat Terrier for the judges at the Westminster Dog Show on Tuesday.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+3:45 P.M.He’s All Ears
+
+
+
+Photo
+
+Taming the unruly ears of an English Springer Spaniel.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+3:30 P.M.Making a Quick Exit
+
+
+
+“Gotta run! No time for chatting.” #WKCDogShow //t.co/vLqHV5wLv8
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+3:13 P.M.Another Manicure? Sigh
+
+
+
+Photo
+
+It’s manicure time for Kao Miichi’s Russell Terrier.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+3:03 P.M.Keep Up With the Dogs
+
+
+For best in breed results, the Westchester Kennel Club keeps a constantly updated list here.
+
+
+
+
+2:58 P.M.Too Sweet
+
+
+
+Goldens are the nicest. I love them. #WKCDogShow //t.co/YCZkYTaeSy
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+2:56 P.M.Auspicious Debut
+
+
+
+Photo
+
+The Rat Terriers make their Westminster debut.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+2:43 P.M.Tools of the Trade
+
+
+
+Photo
+
+Some things, handlers have to keep handy.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+2:23 P.M.Bath Time!
+
+
+
+This Westie gets freshened up #WKCDogShow //t.co/JT5bnhGLqS
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+2:07 P.M.Welcome to the Show
+
+
+
+Photo
+
+Darice Ragan gets to show off Ratatituee Gland Slam I Am, a Rat Terrier.Credit Richard Perry/The New York Times
+
+
+
+
+
+
+1:53 P.M.Tackling Those Tangles
+
+
+
+Photo
+
+A Norwich Terrier gets a comb-through.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+1:52 P.M.Another Trim?
+
+
+
+Photo
+
+A Scottish Terrier seems to eye the grooming implements warily.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+1:41 P.M.White Is Always in
+
+
+
+How beautiful is this Samoyed? //t.co/QidZ8O8OAx
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+1:29 P.M.Leaning on Each Other
+
+
+
+Photo
+
+Sassy Girl loves to help her owner — and watch TV.Credit Wendy Frink for The New York Times
+
+
+Some canines get ribeye and chicken in the ring. Sassy Girl, a St. Bernard from Rochester,  prefers something else. She likes the comedy stylings of “America’s Funniest Home Videos,” broadcast on an iPod (no sound) that her owner wears on her wrist. Susie Collier said Sassy Girl also liked to watch “Judge Judy” and Yankees games.
+Sassy Girl, a 176-pound television junkie, also doubles as a therapy dog for others, and most important, for Collier. Collier suffered a stroke last year, and she credits Sassy Girl with her recovery. Collier was determined to show again, and Sassy Girl helped her by letting her lean on her, literally and figuratively. 
+This is Collier and Sassy Girl’s first time at Westminster, and given her year, Collier couldn’t be more thrilled. “The most important thing is to have fun,” she said. 
+She just has to make sure her iPod is charged. 
+
+
+
+
+1:17 P.M.Hugs All Around
+
+
+
+Photo
+
+Claire, a Dogue de Bordeaux, with Joy Chicatelli as they prepare for their moment with the judges.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+1:15 P.M.A Bright Outlook Always Helps
+
+
+
+Photo
+
+Anette Brill keeps Jewell the Great Dane cheerful in the benching area.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+1:00 P.M.Got the Time?
+
+
+
+A warm welcome to Rolex, a 115 lb Bernese mountain dog! #WKCDogShow //t.co/O7qRKCTozW
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+12:44 P.M.Dog Fever
+
+
+
+Photo
+
+Simon shows off his new pet.Credit Wendy Frink for The New York Times
+
+
+Simon proudly displays his bulldog T-shirt and newly acquired Bernese Mountain Dog toy.
+— WENDY FRINK
+
+
+
+
+12:41 P.M.Fantastic Debut 
+
+
+
+The Rat Terriers are at #WKCDogShow for the 1st time. Little Girl’s handler Heather Bailey says: “A dream come true!” //t.co/tyzeLtyppD
+â Westminster Dog Show (@WKCDOGS) 11 Feb 14
+
+
+
+
+
+12:38 P.M.A Golden Kind of Day
+
+
+
+Photo
+
+Jaycee White with her Golden Retriever, Gable, in the benching area.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+12:27 P.M.Another Day at the Office
+
+
+
+Photo
+
+Izzy the St Bernard waits patiently in the benching area with Elizabeth Selewski.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+12:18 P.M.Socializing Is Allowed
+
+
+
+“So uh, you wanna get dinner later?” #wkcdogshow //t.co/Z38EqGgHFL
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+12:08 P.M.Gentle Giants
+
+
+
+Photo
+
+Diesel the bullmastiff loves kids.Credit Wendy Frink for The New York Times
+
+
+You might not think that a 135-pound wrinkly faced dog would be good with kids, but Diesel, a bull mastiff, is a saint. Diesel’s owner, Bill D’Angelo, has a 9-month-old grandchild at home on Long Island who pulls on this laid-back giant, and when he’s had enough he simply walks away. 
+It’s common here at Westminster to see large dogs, like Great Danes, Leonbergers and St. Bernards, on the floor with spectators, soaking up the attention.
+— WENDY FRINK
+
+
+
+
+11:52 A.M.Everyone Needs a Good Fluff
+
+
+
+Photo
+
+Golden Retrievers need grooming too.Credit Timothy Clary/Agence France-Presse â Getty Images
+
+
+
+
+
+
+11:41 A.M.Another Way to a Dog’s Stomach
+
+
+
+Finnigan gets a belly rub! #WKCDogShow //t.co/hndHWICRfl
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+11:32 A.M.Stomachs Rule
+
+
+
+Show dogs: They’re just like us! this Russell terrier wants a treat #WKCDogShow //t.co/9v7KFHDrpx
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+11:19 A.M.Little Kid, Meet Big Dog
+
+
+
+Photo
+
+Rutger gets a visit from a toddler.Credit Wendy Frink for The New York Times
+
+
+Timid toddler meets a 150-pound Leonberger, named Rutger.
+— WENDY FRINK
+
+
+
+
+10:55 A.M.Mandatory Clean-Up Duty
+
+
+
+Spotted on my way to the show lol. Always pick up after your dog or you might get shamed! #WKCDogShow //t.co/RN2TDvrPaV
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+10:44 A.M.Brrrrr
+
+
+
+Don’t let that sunshine fool you. It is COLD! #WKCDogShow //t.co/sPtUMZvBRG
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+
+
+10:20 A.M. A Lonely Contestant
+
+
+
+Photo
+
+Gilbert is the lone Dandie Dinmont Terrier at the Westminster Dog Show this year.Credit Wendy Frink for The New York Times
+
+
+Gilbert is a lone ranger this year. The 7-year-old from Orlando, Fla., with a taste for London broil, is the only Dandie Dinmont Terrier showing this year. 
+Dandies, known for their short legs, long body and large head, are becoming increasingly difficult to find in the United States and are considered a vulnerable breed by the kennel club of the United Kingdom. According to Gilbert’s owner, Kay Simpson, 12 years ago, half the dandie population was sired by the same male. With that, comes health problems and a weakened gene pool. Simpson is hoping to obtain a female from overseas so Gilbert can sire his own litter. 
+Known as big dogs in little bodies, these terriers don’t shed and make great family pets with their reputation for being couch potatoes.  
+For now, Gilbert enjoys being an ambassador of the breed and certainly earns the title of “Gentleman of the Terriers.”
+— WENDY FRINK
+
+
+
+
+10:18 A.M.Good Morning, Hamilton!
+
+
+
+I’m definitely going to need more coffee #pug life //t.co/Z68xIfBtxa
+â Hamilton Pug (@HamiltonPug) 11 Feb 14
+
+
+
+ Sky, a 5-year-old wire fox terrier who has her own Twitter account and Facebook page, won the top prize on Tuesday night. New breeds like rat terrier â and the other newbies at the show, the chinook and the Portuguese Podengo Pequeno â generally need time at an elite show like Westminster to demonstrate their bona fides. There are, after all, plenty of breeds that have never won. It took until 2008, more than 130 years into Westminsterâs history, for a beagle, Uno, to win. And while terriers have won Westminsterâs top prize 45 times, Marti was unlikely to win the terrier group and advance to Best in Show against the winners of six other groups Tuesday night … Read more Â» — RICHARD SANDOMIR Bo and Sunny Obama must be proud. Their fellow Portuguese water dog, a 2-year-old named Matisse, just won the working group at the Westminster Dog Show. — NICKI JHABVALA I need a big dog in my life #wkcdogshow https://t.co/HCgKsH4oqt — Hamilton Pug (@HamiltonPug) February 12, 2014  How do you bring the audience to their knees? By carrying around a pet giraffe, of course #WKCDogShow pic.twitter.com/QmUEpIOpAc â Hamilton Pug (@HamiltonPug) February 12, 2014  In a few hours, this year’s best in show will be named. But until then, let’s take a look back at some past winners at the Westminster Dog Show. Clockwise from top left is last year’s champion, the Affenpinscher Banana Joe; the 2012 victor, the Pekingese Malachy; the Scottish deerhound Hickory in 2011; the Scottish terrier Sadie in 2010; the Sussex spaniel Stump in 2009; and the beagle Uno in 2008. — NICKI JHABVALA It’s a long day for a dog #WKCDogShow //t.co/AHAhX0lnLg â Hamilton Pug (@HamiltonPug) 11 Feb 14 Malamutes have the friendliest faces #WKCDogShow //t.co/7hWpe3M0fr â Hamilton Pug (@HamiltonPug) 11 Feb 14 Is that a lion? No, it’s Tibetan mastiff! #WKCDogShow //t.co/8hZ9OJfMPJ â Hamilton Pug (@HamiltonPug) 11 Feb 14 “Gotta run! No time for chatting.” #WKCDogShow //t.co/vLqHV5wLv8 â Hamilton Pug (@HamiltonPug) 11 Feb 14 For best in breed results, the Westchester Kennel Club keeps a constantly updated list here. Goldens are the nicest. I love them. #WKCDogShow //t.co/YCZkYTaeSy â Hamilton Pug (@HamiltonPug) 11 Feb 14 This Westie gets freshened up #WKCDogShow //t.co/JT5bnhGLqS â Hamilton Pug (@HamiltonPug) 11 Feb 14 How beautiful is this Samoyed? //t.co/QidZ8O8OAx â Hamilton Pug (@HamiltonPug) 11 Feb 14 Some canines get ribeye and chicken in the ring. Sassy Girl, a St. Bernard from Rochester,  prefers something else. She likes the comedy stylings of “America’s Funniest Home Videos,” broadcast on an iPod (no sound) that her owner wears on her wrist. Susie Collier said Sassy Girl also liked to watch “Judge Judy” and Yankees games. Sassy Girl, a 176-pound television junkie, also doubles as a therapy dog for others, and most important, for Collier. Collier suffered a stroke last year, and she credits Sassy Girl with her recovery. Collier was determined to show again, and Sassy Girl helped her by letting her lean on her, literally and figuratively.  This is Collier and Sassy Girl’s first time at Westminster, and given her year, Collier couldn’t be more thrilled. “The most important thing is to have fun,” she said.  She just has to make sure her iPod is charged.  A warm welcome to Rolex, a 115 lb Bernese mountain dog! #WKCDogShow //t.co/O7qRKCTozW â Hamilton Pug (@HamiltonPug) 11 Feb 14 Simon proudly displays his bulldog T-shirt and newly acquired Bernese Mountain Dog toy. — WENDY FRINK The Rat Terriers are at #WKCDogShow for the 1st time. Little Girl’s handler Heather Bailey says: “A dream come true!” //t.co/tyzeLtyppD â Westminster Dog Show (@WKCDOGS) 11 Feb 14 “So uh, you wanna get dinner later?” #wkcdogshow //t.co/Z38EqGgHFL â Hamilton Pug (@HamiltonPug) 11 Feb 14 You might not think that a 135-pound wrinkly faced dog would be good with kids, but Diesel, a bull mastiff, is a saint. Diesel’s owner, Bill D’Angelo, has a 9-month-old grandchild at home on Long Island who pulls on this laid-back giant, and when he’s had enough he simply walks away.  It’s common here at Westminster to see large dogs, like Great Danes, Leonbergers and St. Bernards, on the floor with spectators, soaking up the attention. — WENDY FRINK Finnigan gets a belly rub! #WKCDogShow //t.co/hndHWICRfl â Hamilton Pug (@HamiltonPug) 11 Feb 14 Show dogs: They’re just like us! this Russell terrier wants a treat #WKCDogShow //t.co/9v7KFHDrpx â Hamilton Pug (@HamiltonPug) 11 Feb 14 Timid toddler meets a 150-pound Leonberger, named Rutger. — WENDY FRINK Spotted on my way to the show lol. Always pick up after your dog or you might get shamed! #WKCDogShow //t.co/RN2TDvrPaV â Hamilton Pug (@HamiltonPug) 11 Feb 14 Don’t let that sunshine fool you. It is COLD! #WKCDogShow //t.co/sPtUMZvBRG â Hamilton Pug (@HamiltonPug) 11 Feb 14 Gilbert is a lone ranger this year. The 7-year-old from Orlando, Fla., with a taste for London broil, is the only Dandie Dinmont Terrier showing this year.  Dandies, known for their short legs, long body and large head, are becoming increasingly difficult to find in the United States and are considered a vulnerable breed by the kennel club of the United Kingdom. According to Gilbert’s owner, Kay Simpson, 12 years ago, half the dandie population was sired by the same male. With that, comes health problems and a weakened gene pool. Simpson is hoping to obtain a female from overseas so Gilbert can sire his own litter.  Known as big dogs in little bodies, these terriers don’t shed and make great family pets with their reputation for being couch potatoes.   For now, Gilbert enjoys being an ambassador of the breed and certainly earns the title of “Gentleman of the Terriers.” — WENDY FRINK I’m definitely going to need more coffee #pug life //t.co/Z68xIfBtxa â Hamilton Pug (@HamiltonPug) 11 Feb 14 Advertisement

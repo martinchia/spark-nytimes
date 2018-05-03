@@ -1,0 +1,1 @@
+Carnegie Mellon's Autonomous Cadillac SRX can drive itself on public roads, detect and stop for pedestrians, and communicate with traffic signals--among other things--all while looking very normal.          

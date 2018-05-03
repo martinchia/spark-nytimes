@@ -1,0 +1,25 @@
+Fantasy U.S. Open Tournament: Who are the two greatest U.S. Open champions from the past 30 years? Itâs up to you to decide, with a little help from The Timesâs tennis experts. Watch our video debates, vote on the winner and then explain your position in the comments section. The winner from this match will be the champion of our virtual tournament. View the bracket. After another surprising upset, this time of (3) Martina Navratilova, (8) Justine Henin now faces (2) Steffi Graf, who easily beat (4) Serena Williams in the semifinals. Thomas Lin, a senior producer for The Times, makes the case for Henin while reporter Lynn Zinser sides with Graf.   
+ 
+document.observe("dom:loaded", function() {
+	NYTMM.USOpenPCP.createPCP({
+		point: {
+			player: 'steffi_graf',
+			summary_text: 'Lynn Zinser Argues for Steffi Graf',
+			image: 'https://static01.nyt.com/packages/images/sports/20110826-openfantasy/steffi_graf.jpg',
+			video: '//video1.nytimes.com/video/2011/09/08/13828_1_open-graf3_wg_16x9_xl_bb_mm.mp4'
+		},
+		counterpoint: {
+			player: 'justine_henin',
+			summary_text: 'Thomas Lin Argues for Justine Henin',
+			image: 'https://static01.nyt.com/packages/images/sports/20110826-openfantasy/justine_henin.jpg',
+			video: '//video1.nytimes.com/video/2011/09/09/13865_1_open-henin3_wg_16x9_xl_bb_mm.mp4'
+		},
+		gender: 'women'
+	});
+});
+ Voting is now closed on this debate. View the Full Bracket Â» Produced by Justin Sablich and Josh Williams/The New York Times Journalists from The New York Times and The International Herald Tribune (along with a few dedicated fans) are following the Grand Slam tournaments, on and off the court. They will provide updates, insights, links and analysis while setting the scene from the stands as well as the press room. 
+			This blog’s regular features, including live tournament analysis, news and notes from Christopher Clarey, Ben Rothenberg and others, and other coverage, can now be found on the tennis section front.Read more… 
+			Venus Williams, ranked No. 63, beat No. 2 Victoria Azarenka in Tokyo on Tuesday, her first win over a player in the top two since 2009.Read more… 
+			The United States learned on Wednesday that it would host a first-round tie with Britain for the 2014 Davis Cup.Read more… 
+			According to one celebrity marketing index, Andy Murray is the most appealing of the so-called Big Four in men’s tennis. Read more… 
+			Sloane Stephens walked the runway Thursday night in the Just Dance With Boy Meets Girl fashion show, modeling the designs of Stacy Igel.Read more… Advertisement

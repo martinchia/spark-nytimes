@@ -1,0 +1,18 @@
+
+
+
+ 
+ require(["blogs/lib/chameleon"], function (NYTMM) {
+					var _obj, chameleonData = ;
+					if (jQuery) { jQuery.noConflict(); }
+					_obj = new NYTMM.SlidingGallery( $("NYTMM_Embed498"), 480, 344, chameleonData);
+					_obj.setFixedCaptionHeight(0);
+					_obj.setPhotoData(chameleonData.photos,chameleonData.link);
+				});
+  require(["blogs/lib/chameleon"], function (NYTMM) {
+					var _obj, chameleonData = ;
+					if (jQuery) { jQuery.noConflict(); }
+					_obj = new NYTMM.SlidingGallery( $("NYTMM_Embed498"), 480, 344, chameleonData);
+					_obj.setFixedCaptionHeight(0);
+					_obj.setPhotoData(chameleonData.photos,chameleonData.link);
+				});  When it comes to deal-making, a global perspective matters. As economic engines stall in the United States and Western Europe, private equity firms, corporate suitors and investment bankers are increasingly venturing overseas, touching down in far-flung locales like Uganda, Malaysia and Chile.  While mergers and acquisitions in such markets are still small compared to those in developed countries, international deal-making is on the rise. The 20 most active countries in the emerging and frontier markets â nations found in Latin America, the Middle East, Asia and sub-Saharan Africa â have notched nearly $377 billion of deals this year, up roughly 3 percent from the same period in 2010, according to Thomson Reuters. The countries share a common characteristic: a growing economy. Chinaâs gross domestic product increased by an estimated 10.3 percent last year, Indiaâs by 10.4 percent and Peruâs by 8.8 percent. In contrast, the United States economy rose 2.8 percent. But forging deals in developing regions comes with a unique set of uncertainties,  including political, economic and regulatory risks. Wal-Mart Stores pulled out of Moscow late last year, citing an inhospitable climate for acquisitions. Ikea, fed up with corruption in Russia, suspended further investments there in 2009. In Brazil, rising inflation has spooked investors, contributing to a 26 percent decline this year in the  MSCI Brazil index. As the market wobbles, merger activity has declined by nearly a third from 2010. China, however, has shown no signs of slowing. Deal volume in the country has already passed the $100 billion mark this year, up 15 percent from the same period in 2010. The transactions represent a range of industries, including industrials, finance, technology and retail. Deal activity also has soared in Indonesia. But with a less developed and robust economy, the acquisitions have been focused on mining, reflecting the countryâs rich resources. In June, Vallar Investments agreed to pay $2 billion for Bumi Resources Minerals of Indonesia. âThere is this image of a frontier, and you think of someone getting hungry in Africa,â said Marko Dimitrijevic, founder of Everest Capital, a hedge fund investing abroad. âThe reality is some of the fastest-growing economies in the world are in the frontier area.â Advertisement

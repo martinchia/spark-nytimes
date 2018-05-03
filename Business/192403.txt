@@ -1,0 +1,250 @@
+DERIVATIVES RULE SET TO CHANGE   |  Regulators and large banks are expected to agree this weekend on a change to derivatives that is intended to curb the damage caused by the crash of a large bank, DealBookâs Peter Eavis writes. Many in the industry view the change as evidence that banks and regulators are substantially reducing the threat that large banks pose to the financial system and the wider economy. But while consumer advocates say that they support the change, they also contend that it does not do enough to dislodge the privileged, and potentially precarious, position that they say derivatives still occupy in the financial system. The ability of failures in the $700 trillion derivatives market to cause serious financial pain became apparent when Lehman Brothers, a big derivatives trader, collapsed. Under derivatives contracts, Lehmanâs trading partners had the right to immediately terminate their derivatives trades when the company declared bankruptcy. As a result, Lehmanâs derivatives trades had to be unwound quickly and chaotically, causing huge new losses for the company and disruption in the wider market. Since then, regulators have specifically wanted a brief delay before derivatives contracts could be unilaterally terminated after a bank collapsed. Such a delay could give the regulatory authorities time to sell the failing company or rapidly restructure the business.  Banks and their legal representatives say changes to the derivatives contracts could go a long way toward ending the too-big-to-fail problem, or the threat that some banks are so big that the government would be forced to bail them out to shield the wider economy. Without the change, they say, the government would have a much harder time winding down a big bank in an orderly fashion. Still, some critics of the banking industry say more must be done. Even after the change, derivatives will enjoy superior rights. The new provision would still allow a derivative to be terminated early if the entity directly on the other side of a derivatives trade went into a bankruptcy proceeding like Chapter 11. 
+
+WHITE HOUSE ALARMED BY JPMORGAN BREACH  |  President Obama and his top national security advisers began receiving periodic briefings on the huge cyberattack at JPMorgan Chase and other financial companies this summer, DealBook reports. But administration officials say no one could tell the president what he most wanted to know: the motive of the attack. âThe question kept coming back, âIs this plain old theft, or is Putin retaliating?ââ one senior official said. More than three months after the first attacks were found, the source is still unclear and there is no evidence that any money was taken from any institution.
+In all, the authorities believe that the hackers may have tried to infiltrate about a dozen financial institutions, said one of the people briefed on the matter. Fidelity Investments and E*Trade are among those institutions that law enforcement officials believe were victimized in some way by the attacks. While Deutsche Bank and Bank of America scanned their systems, the people said, they did not find any evidence that the hackers had tried to get in. At least five other banks â ADP, Bank of the West, Citigroup, HSBC and Regions Financial â found that one of the same web addresses used to penetrate JPMorgan had tried to get into their systems. The F.B.I. has begun a criminal inquiry into the attacks, and the Secret Service has also been involved.  
+Questions are now being asked about whether financial institutions should be obligated to report such attacks. Under federal and state law, JPMorgan did not have to alert customers about the breach because the bank determined that only contact information was breached. A number of state attorneys general have opened investigations into the breach, and there are talks about whether to expand a law that requires companies to alert consumers in a timely fashion if their financial information was taken to include nonfinancial information as well. The breach is under investigation by Preet Bharara, the United States attorney in Manhattan, according to a person briefed on the matter.
+
+
+
+CHINESE RETURN TO THE WALDORF  |  Forty years after Deng Xiaoping, the vice premier and eventual paramount leader of China, stayed at the Waldorf Astoria during his first visit to the United States, an obscure Chinese insurance company, Anbang Insurance, is buying the hotel with plans to restore the 83-year-old Art Deco building to its original splendor, David Barboza writes in DealBook. The company, which started just a decade ago, has managed to build up the capital and connections to broker the largest deal ever by a Chinese investor for an American building, agreeing to pay $1.95 billion for the 47-story tower owned by Hilton Worldwide Holdings.
+The record purchase reflects the growing global influence of Chinaâs business elite. Today, private companies, along with the state-owned giants, are behind a surge in overseas investments. The broad push is being led by Chinaâs richest and most powerful companies like the Alibaba Group, but younger companies like Anbang Insurance, with deep pockets, mysterious owners and significant political influence, are increasingly jumping into the fray. Anbang is controlled, in part, by the members of Chinaâs ruling class, relatives of some of the Communist revolutionary leaders who took control of the country in 1949, among them Mr. Dengâs grandson-in-law.
+Authorities in Beijing have encouraged companies to look abroad to improve their capabilities and acquire new technologies. As growth flags at home, overseas investments also offer the opportunity for Chinese companies to earn hefty returns. âWhile global companies have welcomed the flood of money, the deal-making has also been greeted by skepticism. Given the overarching influence of the Chinese government on private business, such deals have raised concerns at times,â Mr. Barboza writes. âThe Chinese push into the global markets has quickly evolved in the past decade from investing largely in mines and building materials to buying up luxury villas, French vineyards and world-class hotels.â The Waldorf Astoria purchase is Anbangâs first significant foray into the United States.
+
+
+
+ON THE AGENDA  |  Weekly jobless claims are out at 8:30 a.m. The wholesale trade report comes out at 10 a.m. 
+Mario Draghi, the president of the European Central Bank, gives a presentation at 11 a.m. at the Brookings Institution in Washington. His remarks will be followed by a conversation between Mr. Draghi and Stanley Fischer, the vice chairman of the Federal Reserve. Daniel K. Tarullo, a Fed governor, gives a speech on regulatory reform to the Bretton Woods Committee at 1:10 p.m. in Washington. The  Commodity Futures Trading Commissionâs Global Markets Advisory Committee will discuss Bitcoin at a hearing at 3:45 p.m. in Washington. 
+Jim Yong Kim, the president of the World Bank, is on CNBC at 9:35 a.m. Christine Lagarde, the head of International Monetary Fund, is on CNBC at 10:45 a.m. Carl C. Icahn is on Bloomberg TV at 3 p.m.
+
+
+
+GEITHNER DEFENDS A.I.G. BAILOUT  |  The federal government firmly pushed back on Wednesday against the notion that its 2008 bailout of the insurance giant American International Group was beyond the powers of the countryâs central bank, Aaron M. Kessler writes in DealBook. Former Treasury Secretary Timothy F. Geithner, who was president of the New York Federal Reserve Bank at the time, testified the legal requirements for allowing the central bank to step in were more than satisfied, given the situation. âThe world was so fragile and the consequences of A.I.G.âs failure were so great, that I was very confident we met that test,â Mr. Geithner said. 
+
+ WHITE HOUSE ALARMED BY JPMORGAN BREACH  |  President Obama and his top national security advisers began receiving periodic briefings on the huge cyberattack at JPMorgan Chase and other financial companies this summer, DealBook reports. But administration officials say no one could tell the president what he most wanted to know: the motive of the attack. âThe question kept coming back, âIs this plain old theft, or is Putin retaliating?ââ one senior official said. More than three months after the first attacks were found, the source is still unclear and there is no evidence that any money was taken from any institution. In all, the authorities believe that the hackers may have tried to infiltrate about a dozen financial institutions, said one of the people briefed on the matter. Fidelity Investments and E*Trade are among those institutions that law enforcement officials believe were victimized in some way by the attacks. While Deutsche Bank and Bank of America scanned their systems, the people said, they did not find any evidence that the hackers had tried to get in. At least five other banks â ADP, Bank of the West, Citigroup, HSBC and Regions Financial â found that one of the same web addresses used to penetrate JPMorgan had tried to get into their systems. The F.B.I. has begun a criminal inquiry into the attacks, and the Secret Service has also been involved.   Questions are now being asked about whether financial institutions should be obligated to report such attacks. Under federal and state law, JPMorgan did not have to alert customers about the breach because the bank determined that only contact information was breached. A number of state attorneys general have opened investigations into the breach, and there are talks about whether to expand a law that requires companies to alert consumers in a timely fashion if their financial information was taken to include nonfinancial information as well. The breach is under investigation by Preet Bharara, the United States attorney in Manhattan, according to a person briefed on the matter. 
+
+CHINESE RETURN TO THE WALDORF  |  Forty years after Deng Xiaoping, the vice premier and eventual paramount leader of China, stayed at the Waldorf Astoria during his first visit to the United States, an obscure Chinese insurance company, Anbang Insurance, is buying the hotel with plans to restore the 83-year-old Art Deco building to its original splendor, David Barboza writes in DealBook. The company, which started just a decade ago, has managed to build up the capital and connections to broker the largest deal ever by a Chinese investor for an American building, agreeing to pay $1.95 billion for the 47-story tower owned by Hilton Worldwide Holdings.
+The record purchase reflects the growing global influence of Chinaâs business elite. Today, private companies, along with the state-owned giants, are behind a surge in overseas investments. The broad push is being led by Chinaâs richest and most powerful companies like the Alibaba Group, but younger companies like Anbang Insurance, with deep pockets, mysterious owners and significant political influence, are increasingly jumping into the fray. Anbang is controlled, in part, by the members of Chinaâs ruling class, relatives of some of the Communist revolutionary leaders who took control of the country in 1949, among them Mr. Dengâs grandson-in-law.
+Authorities in Beijing have encouraged companies to look abroad to improve their capabilities and acquire new technologies. As growth flags at home, overseas investments also offer the opportunity for Chinese companies to earn hefty returns. âWhile global companies have welcomed the flood of money, the deal-making has also been greeted by skepticism. Given the overarching influence of the Chinese government on private business, such deals have raised concerns at times,â Mr. Barboza writes. âThe Chinese push into the global markets has quickly evolved in the past decade from investing largely in mines and building materials to buying up luxury villas, French vineyards and world-class hotels.â The Waldorf Astoria purchase is Anbangâs first significant foray into the United States.
+
+
+
+ON THE AGENDA  |  Weekly jobless claims are out at 8:30 a.m. The wholesale trade report comes out at 10 a.m. 
+Mario Draghi, the president of the European Central Bank, gives a presentation at 11 a.m. at the Brookings Institution in Washington. His remarks will be followed by a conversation between Mr. Draghi and Stanley Fischer, the vice chairman of the Federal Reserve. Daniel K. Tarullo, a Fed governor, gives a speech on regulatory reform to the Bretton Woods Committee at 1:10 p.m. in Washington. The  Commodity Futures Trading Commissionâs Global Markets Advisory Committee will discuss Bitcoin at a hearing at 3:45 p.m. in Washington. 
+Jim Yong Kim, the president of the World Bank, is on CNBC at 9:35 a.m. Christine Lagarde, the head of International Monetary Fund, is on CNBC at 10:45 a.m. Carl C. Icahn is on Bloomberg TV at 3 p.m.
+
+
+
+GEITHNER DEFENDS A.I.G. BAILOUT  |  The federal government firmly pushed back on Wednesday against the notion that its 2008 bailout of the insurance giant American International Group was beyond the powers of the countryâs central bank, Aaron M. Kessler writes in DealBook. Former Treasury Secretary Timothy F. Geithner, who was president of the New York Federal Reserve Bank at the time, testified the legal requirements for allowing the central bank to step in were more than satisfied, given the situation. âThe world was so fragile and the consequences of A.I.G.âs failure were so great, that I was very confident we met that test,â Mr. Geithner said. 
+
+ CHINESE RETURN TO THE WALDORF  |  Forty years after Deng Xiaoping, the vice premier and eventual paramount leader of China, stayed at the Waldorf Astoria during his first visit to the United States, an obscure Chinese insurance company, Anbang Insurance, is buying the hotel with plans to restore the 83-year-old Art Deco building to its original splendor, David Barboza writes in DealBook. The company, which started just a decade ago, has managed to build up the capital and connections to broker the largest deal ever by a Chinese investor for an American building, agreeing to pay $1.95 billion for the 47-story tower owned by Hilton Worldwide Holdings. The record purchase reflects the growing global influence of Chinaâs business elite. Today, private companies, along with the state-owned giants, are behind a surge in overseas investments. The broad push is being led by Chinaâs richest and most powerful companies like the Alibaba Group, but younger companies like Anbang Insurance, with deep pockets, mysterious owners and significant political influence, are increasingly jumping into the fray. Anbang is controlled, in part, by the members of Chinaâs ruling class, relatives of some of the Communist revolutionary leaders who took control of the country in 1949, among them Mr. Dengâs grandson-in-law. Authorities in Beijing have encouraged companies to look abroad to improve their capabilities and acquire new technologies. As growth flags at home, overseas investments also offer the opportunity for Chinese companies to earn hefty returns. âWhile global companies have welcomed the flood of money, the deal-making has also been greeted by skepticism. Given the overarching influence of the Chinese government on private business, such deals have raised concerns at times,â Mr. Barboza writes. âThe Chinese push into the global markets has quickly evolved in the past decade from investing largely in mines and building materials to buying up luxury villas, French vineyards and world-class hotels.â The Waldorf Astoria purchase is Anbangâs first significant foray into the United States. 
+
+ON THE AGENDA  |  Weekly jobless claims are out at 8:30 a.m. The wholesale trade report comes out at 10 a.m. 
+Mario Draghi, the president of the European Central Bank, gives a presentation at 11 a.m. at the Brookings Institution in Washington. His remarks will be followed by a conversation between Mr. Draghi and Stanley Fischer, the vice chairman of the Federal Reserve. Daniel K. Tarullo, a Fed governor, gives a speech on regulatory reform to the Bretton Woods Committee at 1:10 p.m. in Washington. The  Commodity Futures Trading Commissionâs Global Markets Advisory Committee will discuss Bitcoin at a hearing at 3:45 p.m. in Washington. 
+Jim Yong Kim, the president of the World Bank, is on CNBC at 9:35 a.m. Christine Lagarde, the head of International Monetary Fund, is on CNBC at 10:45 a.m. Carl C. Icahn is on Bloomberg TV at 3 p.m.
+
+
+
+GEITHNER DEFENDS A.I.G. BAILOUT  |  The federal government firmly pushed back on Wednesday against the notion that its 2008 bailout of the insurance giant American International Group was beyond the powers of the countryâs central bank, Aaron M. Kessler writes in DealBook. Former Treasury Secretary Timothy F. Geithner, who was president of the New York Federal Reserve Bank at the time, testified the legal requirements for allowing the central bank to step in were more than satisfied, given the situation. âThe world was so fragile and the consequences of A.I.G.âs failure were so great, that I was very confident we met that test,â Mr. Geithner said. 
+
+ ON THE AGENDA  |  Weekly jobless claims are out at 8:30 a.m. The wholesale trade report comes out at 10 a.m.  Mario Draghi, the president of the European Central Bank, gives a presentation at 11 a.m. at the Brookings Institution in Washington. His remarks will be followed by a conversation between Mr. Draghi and Stanley Fischer, the vice chairman of the Federal Reserve. Daniel K. Tarullo, a Fed governor, gives a speech on regulatory reform to the Bretton Woods Committee at 1:10 p.m. in Washington. The  Commodity Futures Trading Commissionâs Global Markets Advisory Committee will discuss Bitcoin at a hearing at 3:45 p.m. in Washington.  Jim Yong Kim, the president of the World Bank, is on CNBC at 9:35 a.m. Christine Lagarde, the head of International Monetary Fund, is on CNBC at 10:45 a.m. Carl C. Icahn is on Bloomberg TV at 3 p.m. 
+
+GEITHNER DEFENDS A.I.G. BAILOUT  |  The federal government firmly pushed back on Wednesday against the notion that its 2008 bailout of the insurance giant American International Group was beyond the powers of the countryâs central bank, Aaron M. Kessler writes in DealBook. Former Treasury Secretary Timothy F. Geithner, who was president of the New York Federal Reserve Bank at the time, testified the legal requirements for allowing the central bank to step in were more than satisfied, given the situation. âThe world was so fragile and the consequences of A.I.G.âs failure were so great, that I was very confident we met that test,â Mr. Geithner said. 
+
+ GEITHNER DEFENDS A.I.G. BAILOUT  |  The federal government firmly pushed back on Wednesday against the notion that its 2008 bailout of the insurance giant American International Group was beyond the powers of the countryâs central bank, Aaron M. Kessler writes in DealBook. Former Treasury Secretary Timothy F. Geithner, who was president of the New York Federal Reserve Bank at the time, testified the legal requirements for allowing the central bank to step in were more than satisfied, given the situation. âThe world was so fragile and the consequences of A.I.G.âs failure were so great, that I was very confident we met that test,â Mr. Geithner said.     |  Contact: @melbournecoal | E-mail  Sign up for the DealBook Newsletter, delivered every morning and afternoon. 
+
+
+Mergers & Acquisitions »
+
+Mexicoâs Grupo Aleman to Buy Oceanografia   |  Mexicoâs Grupo Aleman, which owns the airline Interjet, said on Wednesday that it had agreed to buy Oceanografia, the bankrupt oil services company at the center of a loan scandal involving Citigroup, Reuters reports. REUTERS 
+
+
+
+Cement Giants to Seek Approval for Merger  |  Holcim and Lafarge, two giant European cement makers, are set to request approval from the European Commission for their planned merger, Reuters writes. The chief executive of Lafarge said the companies were âwell on trackâ to close the deal in the first half of next year. REUTERS 
+
+
+
+Barry Dillerâs IAC May Buy Korean Video Site  |  Barry Dillerâs IAC, the media conglomerate that includes dating and shopping sites, is said to be in talks with DramaFever, a web video service that specializes in Korean movies and television shows, ReCode writes, citing unidentified people familiar with the situation.  RECODE 
+
+
+
+
+
+INVESTMENT BANKING »
+
+
+Tough Talk on Dodd-Frank Rules Misses Relevant Points  |  Representative Scott Garrettâs attacks on the Financial Stability Oversight Council are part of the House Republican assault on financial reform, Jesse Eisinger writes in his column, The Trade.DealBook »
+
+
+
+
+Wall St. Traders Need Help in Bolstering Banksâ Returns  |  Volatility returned to banksâ fixed-income trading, but not enough to ensure decent profitability for Goldman Sachs, JPMorgan and Morgan Stanley in the quarter, Antony Currie of Reuters Breakingviews writes.DealBook »
+
+
+
+Citigroup to Return $16 Million to Customers  |  Citigroup will return $16 million to customers who may have been overcharged for advisory fees on certain investment accounts, according to an agreement to be announced Thursday with New York State, The Wall Street Journal writes. WALL STREET JOURNAL 
+
+
+
+Morgan Stanley Bankers Poised for Biggest Bonus Bump   |  Bond traders at JPMorgan Chase and Citigroup face the fastest-shrinking bonus pools on Wall Street this year, while Morgan Stanley investment bankers appear headed for the biggest gains, Bloomberg News writes. BLOOMBERG NEWS 
+
+
+
+
+
+PRIVATE EQUITY »
+
+Blackstone Halts Some Transaction Fees   |  The Blackstone Group has agreed to stop levying transaction fees for services that the firm didnât actually render, a practice that officials at the Securities and Exchange Commission have criticized, Gretchen Morgenson reports in The New York Times. NEW YORK TIMES 
+
+
+
+Apax-Linked Funds to Acquire Dutch Software Maker for $925 Million  |  Funds advised by the private equity firm Apax Partners plan to initiate an all-cash offer to acquire all of the outstanding stock of Exact Holding for 32 euros a share, a 27 percent premium to the firmâs July 10 closing price.DealBook »
+
+
+
+Private Equity Consultants Face Regulatory Scrutiny  |  Regulators are concerned that buyout firms arenât giving investors in private equity funds enough information about how consultants are paid, The Wall Street Journal reports. WALL STREET JOURNAL 
+
+
+
+
+
+HEDGE FUNDS »
+
+
+Paul Singerâs Hedge Fund Pushes EMC to Break Up  |  In a letter, Elliott Management criticized the technology giant EMC for being overly complex and suggested selling off a range of assets, including the separately traded cloud-computing firm VMWare.DealBook »
+
+
+
+Steven Cohen to Reward Ethical Behavior With Bonus  |  Steven A. Cohen, whose former hedge fund SAC Capital Advisors pleaded guilty to insider trading charges, plans to reward employees of his new investment firm, Point72 Asset Management, for demonstrating ethical behavior with a bonus of as much as 4 percent, Bloomberg News reports. BLOOMBERG NEWS 
+
+
+
+Analysts Say Darden at Risk of Losing Board Control  |  Analysts say that the activist investor Starboard Value appears poised to gain control of the board of Darden Restaurants  at the companyâs annual shareholder meeting on Friday, Reuters writes. REUTERS 
+
+
+
+
+
+I.P.O./OFFERINGS »
+
+
+Citigroup Plans I.P.O. for Its Subprime Lending Unit, OneMain Financial  |  Citigroup is preparing for an initial public offering of OneMain Financial, whose loans carry interest of up to 36 percent and are often used by borrowers to pay for medical bills and auto repairs.DealBook »
+
+
+
+Old Mutualâs Asset Management Arm I.P.O. Priced Low at $14 a Share  |  The British insurer had hoped to price the offering in OM Asset Management at $15 to $17 a share. The companyâs stock is expected to begin trading in New York on Thursday.DealBook »
+
+
+
+
+
+VENTURE CAPITAL »
+
+
+Truecaller, a Swedish Caller ID Start-Up, Raises $60 Million  |  The start-up raised the money with help from West Coast venture giants Kleiner Perkins Caufield & Byers and Sequoia Capital.DealBook »
+
+
+
+Why Start-Ups Arenât Rushing Into I.P.O.s   |  At least 49 venture capital-backed companies in the United States have a valuation of $1 billion or more, the highest number on record, as many find private funding readily available and see no rush to go public, The Wall Street Journal writes. WALL STREET JOURNAL 
+
+
+
+Snapchat to Introduce Ads  |  âPeople are going to see the first ads on Snapchat soon,â Evan Spiegel, Snapchatâs chief executive, told attendees at a Vanity Fair event in San Francisco on Wednesday, The Financial Times writes. FINANCIAL TIMES 
+
+
+
+
+
+LEGAL/REGULATORY »
+
+Fed Officials Affirm Rate Outlook but Seek Flexibility   |  The Federal Reserve, pleased that the economy is improving and more Americans are finding jobs, plans to finish its latest bond-buying campaign at the end of October, The New York Times reports. NEW YORK TIMES 
+
+
+
+What the Dollarâs Rise Tells Us About the Global Economy  |  The United States may have more to gain from progress in Europe and Japan than from advantageous exchange rates for American companies, Neil Irwin writes on The Upshot. NEW YORK TIMES UPSHOT 
+
+
+
+
+Sign up for the DealBook Newsletter, delivered every morning and afternoon.
+ Mexicoâs Grupo Aleman to Buy Oceanografia   |  Mexicoâs Grupo Aleman, which owns the airline Interjet, said on Wednesday that it had agreed to buy Oceanografia, the bankrupt oil services company at the center of a loan scandal involving Citigroup, Reuters reports. REUTERS  
+
+Cement Giants to Seek Approval for Merger  |  Holcim and Lafarge, two giant European cement makers, are set to request approval from the European Commission for their planned merger, Reuters writes. The chief executive of Lafarge said the companies were âwell on trackâ to close the deal in the first half of next year. REUTERS 
+
+
+
+Barry Dillerâs IAC May Buy Korean Video Site  |  Barry Dillerâs IAC, the media conglomerate that includes dating and shopping sites, is said to be in talks with DramaFever, a web video service that specializes in Korean movies and television shows, ReCode writes, citing unidentified people familiar with the situation.  RECODE 
+
+ Cement Giants to Seek Approval for Merger  |  Holcim and Lafarge, two giant European cement makers, are set to request approval from the European Commission for their planned merger, Reuters writes. The chief executive of Lafarge said the companies were âwell on trackâ to close the deal in the first half of next year. REUTERS  
+
+Barry Dillerâs IAC May Buy Korean Video Site  |  Barry Dillerâs IAC, the media conglomerate that includes dating and shopping sites, is said to be in talks with DramaFever, a web video service that specializes in Korean movies and television shows, ReCode writes, citing unidentified people familiar with the situation.  RECODE 
+
+ Barry Dillerâs IAC May Buy Korean Video Site  |  Barry Dillerâs IAC, the media conglomerate that includes dating and shopping sites, is said to be in talks with DramaFever, a web video service that specializes in Korean movies and television shows, ReCode writes, citing unidentified people familiar with the situation.  RECODE   Tough Talk on Dodd-Frank Rules Misses Relevant Points  |  Representative Scott Garrettâs attacks on the Financial Stability Oversight Council are part of the House Republican assault on financial reform, Jesse Eisinger writes in his column, The Trade.DealBook » 
+
+
+Wall St. Traders Need Help in Bolstering Banksâ Returns  |  Volatility returned to banksâ fixed-income trading, but not enough to ensure decent profitability for Goldman Sachs, JPMorgan and Morgan Stanley in the quarter, Antony Currie of Reuters Breakingviews writes.DealBook »
+
+
+
+Citigroup to Return $16 Million to Customers  |  Citigroup will return $16 million to customers who may have been overcharged for advisory fees on certain investment accounts, according to an agreement to be announced Thursday with New York State, The Wall Street Journal writes. WALL STREET JOURNAL 
+
+
+
+Morgan Stanley Bankers Poised for Biggest Bonus Bump   |  Bond traders at JPMorgan Chase and Citigroup face the fastest-shrinking bonus pools on Wall Street this year, while Morgan Stanley investment bankers appear headed for the biggest gains, Bloomberg News writes. BLOOMBERG NEWS 
+
+ Wall St. Traders Need Help in Bolstering Banksâ Returns  |  Volatility returned to banksâ fixed-income trading, but not enough to ensure decent profitability for Goldman Sachs, JPMorgan and Morgan Stanley in the quarter, Antony Currie of Reuters Breakingviews writes.DealBook » 
+
+Citigroup to Return $16 Million to Customers  |  Citigroup will return $16 million to customers who may have been overcharged for advisory fees on certain investment accounts, according to an agreement to be announced Thursday with New York State, The Wall Street Journal writes. WALL STREET JOURNAL 
+
+
+
+Morgan Stanley Bankers Poised for Biggest Bonus Bump   |  Bond traders at JPMorgan Chase and Citigroup face the fastest-shrinking bonus pools on Wall Street this year, while Morgan Stanley investment bankers appear headed for the biggest gains, Bloomberg News writes. BLOOMBERG NEWS 
+
+ Citigroup to Return $16 Million to Customers  |  Citigroup will return $16 million to customers who may have been overcharged for advisory fees on certain investment accounts, according to an agreement to be announced Thursday with New York State, The Wall Street Journal writes. WALL STREET JOURNAL  
+
+Morgan Stanley Bankers Poised for Biggest Bonus Bump   |  Bond traders at JPMorgan Chase and Citigroup face the fastest-shrinking bonus pools on Wall Street this year, while Morgan Stanley investment bankers appear headed for the biggest gains, Bloomberg News writes. BLOOMBERG NEWS 
+
+ Morgan Stanley Bankers Poised for Biggest Bonus Bump   |  Bond traders at JPMorgan Chase and Citigroup face the fastest-shrinking bonus pools on Wall Street this year, while Morgan Stanley investment bankers appear headed for the biggest gains, Bloomberg News writes. BLOOMBERG NEWS   Blackstone Halts Some Transaction Fees   |  The Blackstone Group has agreed to stop levying transaction fees for services that the firm didnât actually render, a practice that officials at the Securities and Exchange Commission have criticized, Gretchen Morgenson reports in The New York Times. NEW YORK TIMES  
+
+Apax-Linked Funds to Acquire Dutch Software Maker for $925 Million  |  Funds advised by the private equity firm Apax Partners plan to initiate an all-cash offer to acquire all of the outstanding stock of Exact Holding for 32 euros a share, a 27 percent premium to the firmâs July 10 closing price.DealBook »
+
+
+
+Private Equity Consultants Face Regulatory Scrutiny  |  Regulators are concerned that buyout firms arenât giving investors in private equity funds enough information about how consultants are paid, The Wall Street Journal reports. WALL STREET JOURNAL 
+
+ Apax-Linked Funds to Acquire Dutch Software Maker for $925 Million  |  Funds advised by the private equity firm Apax Partners plan to initiate an all-cash offer to acquire all of the outstanding stock of Exact Holding for 32 euros a share, a 27 percent premium to the firmâs July 10 closing price.DealBook » 
+
+Private Equity Consultants Face Regulatory Scrutiny  |  Regulators are concerned that buyout firms arenât giving investors in private equity funds enough information about how consultants are paid, The Wall Street Journal reports. WALL STREET JOURNAL 
+
+ Private Equity Consultants Face Regulatory Scrutiny  |  Regulators are concerned that buyout firms arenât giving investors in private equity funds enough information about how consultants are paid, The Wall Street Journal reports. WALL STREET JOURNAL   Paul Singerâs Hedge Fund Pushes EMC to Break Up  |  In a letter, Elliott Management criticized the technology giant EMC for being overly complex and suggested selling off a range of assets, including the separately traded cloud-computing firm VMWare.DealBook » 
+
+Steven Cohen to Reward Ethical Behavior With Bonus  |  Steven A. Cohen, whose former hedge fund SAC Capital Advisors pleaded guilty to insider trading charges, plans to reward employees of his new investment firm, Point72 Asset Management, for demonstrating ethical behavior with a bonus of as much as 4 percent, Bloomberg News reports. BLOOMBERG NEWS 
+
+
+
+Analysts Say Darden at Risk of Losing Board Control  |  Analysts say that the activist investor Starboard Value appears poised to gain control of the board of Darden Restaurants  at the companyâs annual shareholder meeting on Friday, Reuters writes. REUTERS 
+
+ Steven Cohen to Reward Ethical Behavior With Bonus  |  Steven A. Cohen, whose former hedge fund SAC Capital Advisors pleaded guilty to insider trading charges, plans to reward employees of his new investment firm, Point72 Asset Management, for demonstrating ethical behavior with a bonus of as much as 4 percent, Bloomberg News reports. BLOOMBERG NEWS  
+
+Analysts Say Darden at Risk of Losing Board Control  |  Analysts say that the activist investor Starboard Value appears poised to gain control of the board of Darden Restaurants  at the companyâs annual shareholder meeting on Friday, Reuters writes. REUTERS 
+
+ Analysts Say Darden at Risk of Losing Board Control  |  Analysts say that the activist investor Starboard Value appears poised to gain control of the board of Darden Restaurants  at the companyâs annual shareholder meeting on Friday, Reuters writes. REUTERS   Citigroup Plans I.P.O. for Its Subprime Lending Unit, OneMain Financial  |  Citigroup is preparing for an initial public offering of OneMain Financial, whose loans carry interest of up to 36 percent and are often used by borrowers to pay for medical bills and auto repairs.DealBook » 
+
+Old Mutualâs Asset Management Arm I.P.O. Priced Low at $14 a Share  |  The British insurer had hoped to price the offering in OM Asset Management at $15 to $17 a share. The companyâs stock is expected to begin trading in New York on Thursday.DealBook »
+
+ Old Mutualâs Asset Management Arm I.P.O. Priced Low at $14 a Share  |  The British insurer had hoped to price the offering in OM Asset Management at $15 to $17 a share. The companyâs stock is expected to begin trading in New York on Thursday.DealBook »  Truecaller, a Swedish Caller ID Start-Up, Raises $60 Million  |  The start-up raised the money with help from West Coast venture giants Kleiner Perkins Caufield & Byers and Sequoia Capital.DealBook » 
+
+Why Start-Ups Arenât Rushing Into I.P.O.s   |  At least 49 venture capital-backed companies in the United States have a valuation of $1 billion or more, the highest number on record, as many find private funding readily available and see no rush to go public, The Wall Street Journal writes. WALL STREET JOURNAL 
+
+
+
+Snapchat to Introduce Ads  |  âPeople are going to see the first ads on Snapchat soon,â Evan Spiegel, Snapchatâs chief executive, told attendees at a Vanity Fair event in San Francisco on Wednesday, The Financial Times writes. FINANCIAL TIMES 
+
+ Why Start-Ups Arenât Rushing Into I.P.O.s   |  At least 49 venture capital-backed companies in the United States have a valuation of $1 billion or more, the highest number on record, as many find private funding readily available and see no rush to go public, The Wall Street Journal writes. WALL STREET JOURNAL  
+
+Snapchat to Introduce Ads  |  âPeople are going to see the first ads on Snapchat soon,â Evan Spiegel, Snapchatâs chief executive, told attendees at a Vanity Fair event in San Francisco on Wednesday, The Financial Times writes. FINANCIAL TIMES 
+
+ Snapchat to Introduce Ads  |  âPeople are going to see the first ads on Snapchat soon,â Evan Spiegel, Snapchatâs chief executive, told attendees at a Vanity Fair event in San Francisco on Wednesday, The Financial Times writes. FINANCIAL TIMES   Fed Officials Affirm Rate Outlook but Seek Flexibility   |  The Federal Reserve, pleased that the economy is improving and more Americans are finding jobs, plans to finish its latest bond-buying campaign at the end of October, The New York Times reports. NEW YORK TIMES  
+
+What the Dollarâs Rise Tells Us About the Global Economy  |  The United States may have more to gain from progress in Europe and Japan than from advantageous exchange rates for American companies, Neil Irwin writes on The Upshot. NEW YORK TIMES UPSHOT 
+
+ What the Dollarâs Rise Tells Us About the Global Economy  |  The United States may have more to gain from progress in Europe and Japan than from advantageous exchange rates for American companies, Neil Irwin writes on The Upshot. NEW YORK TIMES UPSHOT   Sign up for the DealBook Newsletter, delivered every morning and afternoon.  Advertisement

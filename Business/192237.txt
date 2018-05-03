@@ -1,0 +1,35 @@
+Big banks like Citigroup and Morgan Stanley, which were battered by the 2008 financial crisis, are once again on solid ground.  But a set of documents, e-mail messages and minutes of crucial regulatory meetings released recently by the Financial Crisis Inquiry Commission provide fresh detail about just how close to the brink both firms came.  This week the commission will release another set of documents on its Web site, including an interactive timeline that goes back to the Great Depression. The site will also feature hours of previously unreleased audio recordings of interviews with major players in the crisis, like Joseph Cassano of the American International Group, who was at the center of the credit-default swaps business.   The current documents paint an especially desperate picture of Citigroup, one of the most troubled big banks, which needed several cash infusions from the government during the crisis.  “In short, I will characterize the liquidity and confidence situation as negative and deteriorating such that viability may be threatened without outside support,” a Federal Deposit Insurance Corporation official, Christopher J. Spoth, wrote of Citigroup in an e-mail on Nov. 21, 2008, to the F.D.I.C. chairwoman, Sheila C. Bair.        That late-night missive also contained a chilling summary of a call earlier that day between Citigroup’s risk management team and regulators.  Shares of Citi fell 20 percent, to $3.77, on Nov. 21, 2008, and were down about 60 percent in that week. The liquidity pool of the bank, which had received its first bailout funds just a few weeks earlier, was shrinking and customers were panicking.   The call summary shows that private bank deposits fell $1 billion that day, with $353 million “withdrawn due to Citi name concerns.”  The bank was bleeding money elsewhere as well.  At 5 p.m., the so-called broker-dealer cash box — the equity and cash that Citigroup keeps on hand to cover short sales — was valued at $15.3 billion. The pot of money had dwindled to $11.4 billion by the end of the day.  Amid the turmoil, counterparties were backing away from Citigroup. “UBS initially cut equity finance lines in half to Citi, from $1.8 billion to $900 million,” the call summary said. UBS temporarily reversed its decision after Citigroup’s senior management reached out to the banks. But the call summary said UBS planned on Monday to ask Citigroup to post additional collateral and would no longer accept certain collateral.   That Sunday, documents show, Ms. Bair chaired a closed-door meeting of F.D.I.C. directors to discuss Citigroupâs rapidly deteriorating financial position. Directors gathered in person and by phone to determine whether Citigroupâs ailing health posed a systemic risk.  “In hindsight, I think there have been some systemic situations prior to this one that were not classified as such,” said John M. Reich, an F.D.I.C. director, according to a transcript of the meeting. “The failure of IndyMac pointed the focus to the next weakest institution, which was WaMu, and its failure pointed to Wachovia, and now we’re looking at Citi, and I wonder who’s next.” The meeting ended with an agreement that Citigroup should be considered systemically important to the American financial system. The next day regulators intervened. The Treasury, along with the F.D.I.C., agreed to provide protection against the possibility of unusually large losses on an asset pool of $306 billion of loans and securities backed by residential and commercial real estate and other assets.    “Citi is a fundamentally different company today than it was before the crisis,” a company spokesman said on Wednesday. “Under Vikram Pandit’s leadership, Citi has overhauled its risk management, reduced its risk exposures and bolstered its financial strength. With the goal of supporting the American and global economic recovery, Citi is implementing a strategy based on its core banking businesses and is focused on responsible growth.”  Morgan Stanley, too, was on shaky ground, before negotiating a cash infusion in October 2008 from Mitsubishi UFJ Financial Group of Japan.  âMorgan is the ‘deer in the headlights’ and having significant stress in Europe,” wrote Amy White of the Federal Reserve Bank of New York in an e-mail on Sept. 19, 2008, to several senior officials of the New York Fed, including its then-chairman, Timothy F. Geithner, currently the Treasury secretary.  “It’s looking like Lehman did a few weeks ago,” Ms. White wrote, on a day when Morgan Stanley experienced $22 billion in outflows from its prime brokerage unit.   As is well-known at this point, Lehman Brothers was sinking fast. In the bank’s final days, just a week or so before Ms. White’s email, Lehman desperately turned to JPMorgan Chase for advice, and a financial lifeline. “They sent the Junior Varsity — they have no proposal and are looking to us for ideas/credit line to bridge them to the first quarter when they have [sic] intend to split into good bank/bad bank,” a JPMorgan executive, John J. Hogan, wrote in a message to a colleague, Steven D. Black.   Mr. Black responded, looping in his boss, Jamie Dimon, the chief executive: “Let’s give them an order for the same drugs they have apparently been taking to think that we would do something like that.” Lehman filed for bankruptcy less than a week later in the largest corporate failure in American history. Here are the documents from the Financial Crisis Inquiry Commission, annotated by DealBook: F.D.I.C. Correspondence on Citi 
+
+  DV.load('//www.documentcloud.org/documents/32273-fdic-nov-21-22-e-mails.js', {
+    width: 592,
+    height: 400,
+    sidebar: false,
+    page: 2,
+    container: "#DV-viewer-32273-fdic-nov-21-22-e-mails"
+  });
+ Minutes of F.D.I.C. Meeting on Citi 
+
+  DV.load('//www.documentcloud.org/documents/32274-fdic-nov-23-meeting.js', {
+    width: 592,
+    height: 400,
+    sidebar: false,
+    container: "#DV-viewer-32274-fdic-nov-23-meeting"
+  });
+ N.Y. Fed Correspondence on Morgan Stanley 
+
+  DV.load('//www.documentcloud.org/documents/32275-ny-federal-reserve-bank-e-mails.js', {
+    width: 592,
+    height: 400,
+    sidebar: false,
+    page: 2,
+    container: "#DV-viewer-32275-ny-federal-reserve-bank-e-mails"
+  });
+ JPMorgan Correspondence on Lehman 
+
+  DV.load('//www.documentcloud.org/documents/32276-jpmorgan-chase-e-mails.js', {
+    width: 592,
+    height: 400,
+    sidebar: false,
+    container: "#DV-viewer-32276-jpmorgan-chase-e-mails"
+  });
+ Advertisement

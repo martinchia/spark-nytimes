@@ -1,0 +1,62 @@
+The Challenge: Can you figure out what’s wrong with a 64-year-old woman whose breathing becomes rapid and erratic at times?  Every month, the Diagnosis column of The New York Times Magazine asks Well readers to try their hand at solving a diagnostic riddle. Below you will find the details of a case involving an amusement park cashier who notices that her breathing sometimes gets fast and erratic when she walks up stairs or gets upset. Can you figure out why? As usual, the first person to figure out the diagnosis will receive a signed copy of my book, âEvery Patient Tells a Story,â and the pleasure of figuring out a case that stumped a bunch of doctors. The Patient’s Story 
+The 64-year-old woman hadnât been breathing right for nearly a year, she told Dr. Spencer Haller, an internist in Wilbraham, Mass. She had been looking for a new doctor because her previous doctors couldnât figure out why sometimes her breath would become fast and erratic. It wasnât painful. She didnât feel sweaty or nauseated. It just wasnât normal, not for her. It happened several times a day, she reported, sometimes when she was walking, sometimes when she was feeling stressed. But usually it just came out of nowhere when she wasnât doing, or feeling, anything in particular. These spells started nearly a year earlier. They didnât last long — a minute, maybe less — but they scared her because she wasnât sure what was going on. The Patient’s History Does it ever happen when you sleep, the doctor asked? Never. Do you snore or stop breathing at night? Not that she knew of. In between these weird breathing spells, she felt just fine. Her feet sometimes swelled up â but that was an old problem. And she had pain in her knees when she walked too much. She was on the same medicines she had been on for years: a thyroid pill, a medicine to prevent seizures, and a medicine for her cholesterol.  Did she smoke, the doctor asked. No, never. She was a petite woman, a bit overweight, with rosy cheeks and a shy demeanor. As Dr. Haller examined her, her breathing suddenly sped up â quick, shallow breaths, a little erratic. After less than a minute, the episode resolved and her breathing became normal. It was odd. He had never seen anything like it, and he wasnât sure what to make of it.  She recently had pulmonary function testing, she told the doctor. These tests measure how well the lungs take in and release air with deep breathing. That test was normal, she said. Beyond that she wasnât sure what tests she had had. She was getting a little forgetful lately, she told the doctor with an embarrassed air. He would get her old records from her previous doctors but for now would make sure her thyroid was normal and that she wasnât anemic or dehydrated. These conditions could cause the heart to race, and that might make her feel as if she were out of breath. Everything Is Fine — Except the Patient 
+Dr. Haller got her old records a couple of weeks later. Her last doctor had also seen an episode of her abnormal breathing and seemed to be just as puzzled as he had been. A chest X-ray didnât show much. Tests of her heart were also fine. Her kidneys and liver function were fine. The results of the tests he had ordered were just as unrevealing. Could this be stress, he wondered. Her old doctors knew that the patient and her husband werenât getting along well, and in one appointment noted that the patient became short of breath when she spoke of him and their lives at home. That led them to wonder if this could be anxiety, that these brief episodes of breathlessness might be little panic attacks. One of her doctors had suggested this hypothesis to the patient. She agreed that it was possible, though she said she didnât feel anxious. And she wasnât particularly interested in seeing anyone to talk about it. You can see the notes from these first doctor visits here.
+ 
+
+
+
+  DV.load("//www.documentcloud.org/documents/1699412-first-visits-redacted.js", {
+  width: 480,
+    height: 400,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-1699412-first-visits-redacted"
+  });
+
+  
+
+  DV.load("//www.documentcloud.org/documents/1699412-first-visits-redacted.js", {
+  width: 480,
+    height: 400,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-1699412-first-visits-redacted"
+  });
+
+ Another Opinion After a half a year of unrevealing testing, her old doctor seemed satisfied that her problem was related to anxiety. The patient, however, was not convinced and decided to find a new doctor. Which is why she had come to see Dr. Haller.  She needed a diagnosis, and she needed it soon, since she was planning to go back to work at Six Flags amusement park as soon as the weather improved and the park opened for a new season. As Dr. Haller reviewed her records after that first visit, he saw that she had gotten a thorough work-up. He wasnât sure what more he might do. So, he referred her to a friend and partner in his practice, Dr. John A. Rankin. You can see the notes from Dr. Haller’s visits with the patient here.
+ 
+
+
+
+  DV.load("//www.documentcloud.org/documents/1699413-haller-notes-redacted.js", {
+  width: 480,
+    height: 400,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-1699413-haller-notes-redacted"
+  });
+ 
+
+  DV.load("//www.documentcloud.org/documents/1699413-haller-notes-redacted.js", {
+  width: 480,
+    height: 400,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-1699413-haller-notes-redacted"
+  });
+ Odd Breathing Dr. Rankin was a pulmonologist, a specialist in diseases of the lung. During the patientâs first visit, her breathing was persistently abnormal: rapid, shallow and quite irregular. Her chest fluttered up and down as she breathed 40 to 60 times a minute. And when she lay down, her abdomen moved with the same varying, irregular beat.  Remarkably, the patient did not seem particularly anxious or distressed by the movement, though she was clearly aware of it. She could slow down her breathing when he asked her to, but the odd pattern â rapid and irregular – reasserted itself once she stopped the deliberate deep breaths. It was such an unusual pattern. Dr. Rankin asked the patient if he might videotape her breathing. You can see video of the patient breathing here. Credit: Courtesy of the American Thoracic Society.* As Dr. Rankin watched the patientâs chest and abdomen vibrate with her rapid, staccato breathing, he felt a surge of excitement. He knew what this was.  You can see most of the note from his first visit with this patient; I left off the part where he gives the diagnosis.  
+
+  DV.load("//www.documentcloud.org/documents/1699414-rankin-redacted.js", {
+  width: 480,
+    height: 400,
+    sidebar: false,
+    text: false,
+    pdf: false,
+    container: "#DV-viewer-1699414-rankin-redacted"
+  });
+ Solving the Mystery Do you know what is causing this patient’s irregular breathing? Post your answers in the comments section. Iâll post the correct answer on Friday. 
+Rules and Regulations: Post your diagnosis and any questions you may have in the Comments section. The first person to answer correctly will receive a copy of my book and that warm, wonderful feeling you get from solving a mystery. The winner will be contacted. Reader comments may also appear in a coming issue of The New York Times Magazine. Updated, Friday 4:06 p.m. |  Thanks for all your responses! You can read about the correct diagnosis at “Think Like a Doctor: Breathless Solved.” Your health questions answered by Times journalists and experts. Your Questions | All » Get Well's Running email for practical tips, expert advice, exclusive content and a bit of motivation delivered to your inbox every week to help you on your running journey. Coming soon. Advertisement
